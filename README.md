@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gopiselvam
-- 👀 I’m interested in coding
-- 🌱 I’m currently working as a Java developer
+- 👋 Hi, Nice to meet you
+- 👀 It's Gopi here
+- 🌱 I love coding and write code on daily basis
 - 📫 Reach me out on gopiselvam96@gmail.com
